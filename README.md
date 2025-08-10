@@ -22,7 +22,7 @@ Experienced HPC Systems Engineer with 9 years of expertise in designing, managin
 ## 📫 Let’s Connect
 
 - **Email:** [ykbabu.it@gmail.com](mailto:ykbabu.it@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/y-k-babu-546934198](https://www.linkedin.com/in/y-k-babu-546934198/)
+- **LinkedIn:** https://www.linkedin.com/in/ykbabu/
 
 ---
 
