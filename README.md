@@ -1,29 +1,6 @@
 # 👋 Hi, I'm Y K Babu
 
-🚀 *IT Engineer | Linux & DevOps Specialist | Cloud Infrastructure | HPC & Automation Enthusiast*
-
-I'm a results-driven IT professional with **9+ years of hands-on experience** in managing large-scale Linux environments, automating cloud infrastructure (GCP & AWS), and enabling high-performance computing (HPC) for research and engineering teams.
-
-I specialize in building **secure, reliable, and scalable infrastructure** using **Terraform**, **Ansible**, **Docker**, **Kubernetes**, and **GitHub Actions**. I thrive in environments where automation, performance, and precision matter.
-
----
-
-## 🔧 Technical Focus Areas
-
-- **DevOps & Automation**  
-  CI/CD (Jenkins, GitHub Actions), IaC (Terraform, Ansible), Scripting (Bash, YAML)
-
-- **Cloud & Infrastructure**  
-  GCP, AWS, VMware, Kubernetes, Linux (RHEL, Ubuntu, SUSE, CentOS)
-
-- **Monitoring & Security**  
-  Prometheus, Grafana, IAM, Automox, Okta, JAMF, Workspace ONE
-
-- **HPC & Workload Management**  
-  LSF, SLURM, Univa Grid Engine, AFS, Qumulo
-
-- **IT Operations**  
-  ITSM (ServiceNow, FreshService), Endpoint Management, Asset Lifecycle, Global IT Support
+Experienced HPC Systems Engineer with 9 years of expertise in designing, managing, and supporting high-performance computing environments for global engineering teams. Proficient in workload schedulers such as IBM LSF and Slurm, with hands-on experience in deploying hybrid HPC infrastructures using AWS ParallelCluster. Specialized in EDA application support (Cadence, Synopsys, Mentor), cluster operations, and license server management (FlexLM with FNMEA). Skilled in remote visualization tools including VNC, NX, ETX, EOD, PCoIP, and DCV. Strong background in Linux systems administration, environment module configuration, performance tuning, and resolving complex infrastructure issues under strict SLAs. Adept at maintaining large-scale compute clusters and delivering reliable, mission-critical HPC services through automation and operational excellence.
 
 ---
 
